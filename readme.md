@@ -2,6 +2,7 @@
 
 Une petite bibliothèque de pile genérique en C.
 Il existe deux implémentations de pile, une basée sur un tableau et l'autre basée sur une liste chaînée.
+
     - La pile basée sur un tableau est plus rapide, mais elle a une taille fixe.
     - La pile basée sur une liste chaînée est plus lente, mais elle n'a pas de limite de taille.
 
